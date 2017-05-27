@@ -1,0 +1,11 @@
+#!/bin/bash
+
+gitbook build . docs
+
+git add .
+
+git commit -a -m 'auto update book'
+
+git pull origin master --rebase
+
+git push origin master
