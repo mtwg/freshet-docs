@@ -4,5 +4,11 @@ Whether a mobile device or a PC/Mac, all your devices will need some configurati
 
 Here we provide instructions for all major device operating systems and desktop operating systems.
 
+* [Android](/device_security/ANDROID.md)
+* [iPhone / iPad](/device_security/IOS.md)
+* [Windows](/device_security/WIN.md)
+* [MAC/OSX](/device_security/OSX.md)
+* [Linux](/device_security/LINUX.md)
+
 
 
