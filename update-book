@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gitbook build . docs
+gitbook build . ./docs
 
 gitbook pdf . ./docs/freshet-docs.pdf
 
