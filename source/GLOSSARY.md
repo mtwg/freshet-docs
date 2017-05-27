@@ -1,5 +1,5 @@
 ## Protected Services
-Services that we use which contain protected information which are hidden behind the VPN.
+Services that we use which contain protected information and are only accessible behind the VPN.
 Tresorit, Memoryhole, Sandcats, Wekan, and others are examples of these services.
 
 ## VPN

@@ -2,6 +2,8 @@
 
 gitbook build . docs
 
+gitbook pdf . ./docs/freshet-docs.pdf
+
 git add .
 
 git commit -a -m 'auto update book'
