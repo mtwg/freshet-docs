@@ -2,7 +2,11 @@
 
 * [Introduction](README.md)
 * [Your Devices](device_security/README.md)
-  * [IPhone / IPad](/device_security/IOS.md)
+  * [Android](/device_security/ANDROID.md)
+  * [iPhone / iPad](/device_security/IOS.md)
+  * [Windows](/device_security/WIN.md)
+  * [MAC/OSX](/device_security/OSX.md)
+  * [Linux](/device_security/LINUX.md)
 * [Email](email/README.md)
   * [Configuring Thunderbird](email/SETUP.md)
 * [Remote Access \(VPN\)](vpn/README.md)
