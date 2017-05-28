@@ -8,9 +8,8 @@
   * [MAC/OSX](/device_security/OSX.md)
   * [Linux](/device_security/LINUX.md)
 * [Email](email/README.md)
+  * [RiseUp Email](email/riseup-set-up-securing-your-existing-account.md)
   * [Configuring Thunderbird](email/SETUP.md)
 * [Remote Access \(VPN\)](vpn/README.md)
 * [MemoryHole](memoryhole/README.md)
-
-
 
