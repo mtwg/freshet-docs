@@ -2,5 +2,6 @@
   "root": "source",
   "title": "Freshet Tech Manual",
   "author": "Freshet Tech Crew",
-  "language": "en"
+  "language": "en",
+  "plugins": [ "page-toc" ],
 }
