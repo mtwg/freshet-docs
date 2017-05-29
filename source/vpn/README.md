@@ -6,9 +6,15 @@ The primary reasons we are using a VPN for all offsite collaborators are:
 
 * to encrypt your internet traffic
 * to obscure the source of your internet traffic
-* to ensure that _protected services_
+* to ensure that _protected services _are only exposed to trusted users
 
-_Note:_ Currently, protected services still
+> _Note:_ Currently, protected services are available without the VPN temporarily until everyone who will need them is familiar with and using the VPN
+>
+> ## Why can I only use Memoryhole, Tresorit, etc with the VPN? Why protect services?
+
+1. **Visibility** Currently, anyone can visit freshetdata.org. This means that potential attackers don't need credentials to begin looking for ways to gain access to the server using a variety of methods. We try our best to prevent these attacks, but ensuring that only a short list of users can even see freshetdata.org gives us many advantages in protecting our data.
+2. **Encrypted Traffic**
+   It ensures another layer of encryption in addition to SSL. Though SSL is the best in-transit encryption method available for the web, a diversity of encryption tactics is always key, especially since barely a year goes by before a major SSL vulnerability is discovered.
 
 ## Step 1\) Install VPN Clients to your devices
 
