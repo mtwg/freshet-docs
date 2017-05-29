@@ -18,7 +18,7 @@ You should only need to follow them once for each device. Following that, you ca
 
 ### Step 2\) Connect to the VPN
 
-Using your credentials you received via email, now you can configure your client to connect to the network:
+Using your credentials you received via email, now you can configure your client to connect to the network.
 
 ### Step 3\) Confirm the VPN is working
 
