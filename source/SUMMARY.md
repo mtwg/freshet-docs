@@ -12,6 +12,6 @@
   * [Configuring Thunderbird](email/SETUP.md)
 * [Remote Access \(VPN\)](vpn/README.md)
 * [MemoryHole](memoryhole/README.md)
-* Browsing Securely
-* Password Management
+* [Browsing Securely](browsing-securely.md)
+* [Password Management](password-management.md)
 

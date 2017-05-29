@@ -1,7 +1,5 @@
 # Using Remote Access \(VPN\)
 
-
-
 ## Why a VPN?
 
 The primary reasons we are using a VPN for all offsite collaborators are:
@@ -13,6 +11,14 @@ The primary reasons we are using a VPN for all offsite collaborators are:
 _Note:_ Currently, protected services still
 
 ## Step 1\) Install VPN Clients to your devices
+
+| Operating System | Client Name | Download Link |
+| :--- | :--- | :--- |
+| Windows | OpenVPN? |  |
+| Linux | OpenVPN? |  |
+| Max/OSX | TunnelBlick |  |
+| Android | OpenVPN? |  |
+| iOS \(iPhone, iPad\) | TunnelBlick? |  |
 
 ## Step 2\) Connect to the VPN
 
