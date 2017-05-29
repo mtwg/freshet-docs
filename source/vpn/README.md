@@ -1,5 +1,11 @@
 # Using Remote Access \(VPN\)
 
+When working or volunteering for freshet, you will need to use the VPN to access services like memoryhole, tresorit, etc.
+
+> _**Note:**_ Currently, protected services are available without the VPN temporarily until everyone who will need them is familiar with and using the VPN
+
+
+
 ## Setup
 
 These instructions will help you to get your PC, Mac, and/or smart phone set up to encrypt all of your traffic when you are working for the collective.
@@ -38,8 +44,6 @@ The primary reasons we are using a VPN for all offsite collaborators are:
 * to obscure the source of your internet traffic
 * to ensure that \_protected services \_are only exposed to trusted users
 
-> _**Note:**_ Currently, protected services are available without the VPN temporarily until everyone who will need them is familiar with and using the VPN
-
 ### Why protect services?
 
 1. **Visibility -** Currently, anyone can visit freshetdata.org. This means that potential attackers don't need credentials to begin looking for ways to gain access to the server using a variety of methods. We try our best to prevent these attacks, but ensuring that only a short list of users can even see freshetdata.org gives us many advantages in protecting our data.
@@ -63,6 +67,4 @@ If you see a 404 error when trying to access memoryhole, or Tresorit is refusing
 ### 3\) The internet is slow when i'm connected to the VPN
 
 Unfortuantely, this will always be somewhat of an issue
-
-
 
