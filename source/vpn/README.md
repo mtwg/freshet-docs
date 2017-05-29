@@ -8,7 +8,7 @@ The primary reasons we are using a VPN for all offsite collaborators are:
 * to obscure the source of your internet traffic
 * to ensure that \_protected services \_are only exposed to trusted users
 
-> _Note:_ Currently, protected services are available without the VPN temporarily until everyone who will need them is familiar with and using the VPN
+> _**Note:**_ Currently, protected services are available without the VPN temporarily until everyone who will need them is familiar with and using the VPN
 
 ## Why can I only use Memoryhole, Tresorit, etc with the VPN? Why protect services?
 
