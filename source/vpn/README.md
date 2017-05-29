@@ -2,6 +2,10 @@
 
 ## Setup
 
+These instructions will help you to get your PC, Mac, and/or smart phone set up to encrypt all of your traffic when you are working for the collective.
+
+You should only need to follow them once for each device. Following that, you can refer to Daily Use to learn what steps, if any, you need to follow to continue using it.
+
 ### Step 1\) Install VPN Clients to your devices
 
 |  | Client Name | Download Link |
@@ -34,12 +38,8 @@ The primary reasons we are using a VPN for all offsite collaborators are:
 
 ### Why protect services?
 
-
-
 1. **Visibility -** Currently, anyone can visit freshetdata.org. This means that potential attackers don't need credentials to begin looking for ways to gain access to the server using a variety of methods. We try our best to prevent these attacks, but ensuring that only a short list of users can even see freshetdata.org gives us many advantages in protecting our data.
 2. **Encrypted Traffic - **It ensures another layer of encryption in addition to SSL. Though SSL is the best in-transit encryption method available for the web, a diversity of encryption tactics is always key, especially since barely a year goes by before a major SSL vulnerability is discovered.
-
-
 
 ## Troubleshooting
 
