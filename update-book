@@ -1,8 +1,6 @@
 #!/bin/bash
 
-gitbook build . ./docs
-
-gitbook pdf . ./docs/freshet-docs.pdf
+npm run build:tresor
 
 git add .
 

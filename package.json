@@ -1,22 +1,27 @@
 {
   "name": "freshet_docs",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "description": "Technical Documentation for Freshet Staff",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook build . docs",
+    "build:tresor": "gitbook build . ~/Tresors/Tech\ Internal/docs && gitbook pdf . ~/Tresors/Tech\ Internal/docs"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mtwg/freshet-docs.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Rikki <rerooting@riseup.net>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mtwg/freshet-docs/issues"
   },
-  "homepage": "https://github.com/mtwg/freshet-docs#readme"
+  "homepage": "https://github.com/mtwg/freshet-docs#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0",
+    "gitbook-plugin-replace-with-index-html": "^1.0.9"
+  },
+  "dependencies": {
+    "serve": "^5.2.1"
+  }
 }
