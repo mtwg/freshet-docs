@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gitbook build . docs",
-    "build:tresor": "gitbook build . ~/Tresors/Tech\ Internal/docs && gitbook pdf . ~/Tresors/Tech\ Internal/docs"
+    "build:tresor": "env $(cat .env) gitbook build . $OUTPATH && gitbook pdf . $OUTPATH"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,6 @@
   },
   "homepage": "https://github.com/mtwg/freshet-docs#readme",
   "devDependencies": {
-    "gitbook-cli": "^2.3.0",
-    "gitbook-plugin-replace-with-index-html": "^1.0.9"
-  },
-  "dependencies": {
-    "serve": "^5.2.1"
+    "gitbook-cli": "^2.3.0"
   }
 }

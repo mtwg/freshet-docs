@@ -1,11 +1,17 @@
 #!/bin/bash
 
+echo "building gitbook"
 npm run build:tresor
-
+echo "built gitbook"
+echo "adding to git"
 git add .
-
+echo "added to git"
+echo "commmitting to git"
 git commit -a -m 'auto update book'
-
+echo "commmitted to git"
+echo "pulling upstream changes"
 git pull origin master --rebase
-
+echo "pulled upstream changes"
+echo "pushing changes"
 git push origin master
+echo "pushed changes"

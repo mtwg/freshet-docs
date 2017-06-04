@@ -1,0 +1,6 @@
+echo "Installing Node Deps"
+npm install
+echo "Installed Node Deps"
+echo "Installing gitbook deps"
+gitbook install
+echo "Installed gitbook deps"
